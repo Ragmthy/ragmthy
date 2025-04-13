@@ -1,4 +1,4 @@
-## Hi there, from a +65 native 👋
+## Hi there, from a 🇸🇬 native 👋
 
 - 🔭 I’m currently working on [XINTRA's APT Simulation Labs](https://www.xintra.org/)
 
