@@ -1,10 +1,8 @@
-## Hi there 👋
-
-
-Here are some ideas to get you started:
+## Hi there, from a +65 native 👋
 
 - 🔭 I’m currently working on [XINTRA's APT Simulation Labs](https://www.xintra.org/)
- <!--- 🌱 I’m currently learning ...
-- 📫 How to reach me: ... -->
+
 - 😄 Pronouns: She/Her
+
+- Currently attempting to jazz up this Github Intro page, should be loading soon
 
