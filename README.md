@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Trying to find a 42 to lif
+### Trying to find a 42 to life
 
 - 🔭 I’m currently working on [XINTRA's APT Simulation Labs](https://www.xintra.org/)
 
