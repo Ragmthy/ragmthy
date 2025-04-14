@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: She/Her
 
-###### Currently attempting to jazz up this Github Intro page, should be loading soon ⏳
+###### Currently attempting to make this Github Intro page more welcoming. It'll take time ⏳: updating repos are more fun than the about me md 
 In the meantime, enjoy some quotes here from THHGttG:
 - "Don't Panic. It's the first helpful or intelligible thing anybody's said to me all day." ❗
 - "Looking up into the night sky is looking into infinity — distance is incomprehensible and therefore meaningless" 🌃
