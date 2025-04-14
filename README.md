@@ -1,7 +1,7 @@
 ## Hi there 👋
-### Trying to find a :four::two: to life
+### About me ~ Trying to find a :four::two: to life
 
-###### Some ongoing techy projects of mine
+###### Some ongoing techy pet projects of mine
 - 🔭 I’m currently working on [XINTRA's APT Simulation Labs](https://www.xintra.org/)
   * Here's my work for the [Waifu University Case](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough) ⏳. _A project that ran from March 23 - April 14 2025_
 
