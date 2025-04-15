@@ -4,6 +4,7 @@
 ###### Some ongoing techy pet projects of mine
 - 🔭 I’m currently working on [XINTRA's APT Simulation Labs](https://www.xintra.org/)
   * Here's my work for the [Waifu University Case](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough) ⏳. _A project that ran from March 23 - April 14 2025_
+  * It's a simulation lab for threat hunting, and in this Waifu case, about the ALPHV Ransomware gang. It's lovely to be able to piece together the attack and find the relevant artifacts about it. 
 
 ###### An unexpected highlight amongst my works
 - :star2: An appreciated repository of mine: the [write-ups for Gralhix OSINT Exercises by Sofia Santos](https://github.com/Ragmthy/gralhix_osint_exercises).
