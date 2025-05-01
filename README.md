@@ -4,7 +4,17 @@
 ###### Some ongoing techy pet projects of mine
 - 🔭 I’m currently working on [XINTRA's APT Simulation Labs](https://www.xintra.org/)
   * Here's my work for the [Waifu University Case](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough) ⏳. _A project that ran from March 23 - April 14 2025_
-  * It's a simulation lab for threat hunting, and in this Waifu case, about the ALPHV Ransomware gang. It's lovely to be able to piece together the attack and find the relevant artifacts about it. 
+  * It's a simulation lab for threat hunting, and in this Waifu case, about the ALPHV Ransomware gang. It's lovely to be able to piece together the attack and find the relevant artifacts about it.
+ 
+##### Techy Projects pursued to broaden my sight of Cybersecurity: 
+- 📆 I've completed the [30 Day MyDFIR SOC Analyst challenge](https://www.youtube.com/watch?v=GWX19cpv21w&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6)
+  * Here's my repository for the [project](https://github.com/Ragmthy/30DayMyDFIRChallenge). Just chose to put together a small file for each day covered, as it didn't make full sense to transcribe out the video.
+  * As a rough sequence of things one gets to do, you'll get to:
+     * Design a system and set its infrastructure and environment up </br>
+     * Learn how to collect logs, and monitor the infrastructure </br>
+     * Simulate a cyber attack against it, and exfiltrate a particular asset </br>
+     * Investigate the captured logs of the attack, and implement protection against the infrastructure.
+     * Learn storage of any relevant alerts that came about for audit purposes.
 
 ###### An unexpected highlight amongst my works
 - :star2: An appreciated repository of mine: the [write-ups for Gralhix OSINT Exercises by Sofia Santos](https://github.com/Ragmthy/gralhix_osint_exercises).
