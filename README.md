@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on [XINTRA's APT Simulation Labs](https://www.xintra.org/)
   * Here's my work for the [Waifu University Case](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough) ⏳. _A project that ran from March 23 - April 14 2025_
   * It's a simulation lab for threat hunting, and in this Waifu case, about the ALPHV Ransomware gang. It's lovely to be able to piece together the attack and find the relevant artifacts about it.
+  * Soon after, I embarked on the [Airbuzzed Case](https://github.com/Ragmthy/Xintra_Airbuzzed_Walkthrough) ~ A simulation lab for the Lazarus Group was targeting employees in aerospace companies for their own motives. 
  
 ##### Techy Projects pursued to broaden my Horizon in Cybersecurity: 
 - 📆 I've completed the [30 Day MyDFIR SOC Analyst challenge](https://www.youtube.com/watch?v=GWX19cpv21w&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6)
