@@ -3,7 +3,7 @@
 
 ###### Some ongoing techy pet projects of mine
 - 🔭 I’m currently working on [XINTRA's APT Simulation Labs](https://www.xintra.org/)
-  * Here's my work for the [Waifu University Case](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough) ⏳. _A project that ran from March 23 - April 14 2025_
+  * Here's my work for the [Waifu University Case](https://github.com/Ragmthy/Xintra_Waifu_Uni_Walkthrough) ⏳.
   * It's a simulation lab for threat hunting, and in this Waifu case, about the ALPHV Ransomware gang. It's lovely to be able to piece together the attack and find the relevant artifacts about it.
   * Soon after, I embarked on the [Airbuzzed Case](https://github.com/Ragmthy/Xintra_Airbuzzed_Walkthrough) ~ A simulation lab for the Lazarus Group was targeting employees in aerospace companies for their own motives. 
  
