@@ -7,6 +7,7 @@
   * It's a simulation lab for threat hunting, and in this Waifu case, about the ALPHV Ransomware gang. It's lovely to be able to piece together the attack and find the relevant artifacts about it.
   * Soon after, I embarked on the [Airbuzzed Case](https://github.com/Ragmthy/Xintra_Airbuzzed_Walkthrough) ~ A simulation lab for the Lazarus Group was targeting employees in aerospace companies for their own motives.
   * Yeah, the labs are addicitve. Here's the write-up for the [Council of Tropical Affairs Lab](https://github.com/Ragmthy/Xintra_Council_of_TropicalAffairs)
+  * The next one was the [Abu Jibal Oil Company Lab](https://github.com/Ragmthy/Xintra_Abu_Jibal_OC_Walkthrough)
  
 ##### Techy Projects pursued to broaden my Horizon in Cybersecurity: 
 - 📆 I've completed the [30 Day MyDFIR SOC Analyst challenge](https://www.youtube.com/watch?v=GWX19cpv21w&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6)
